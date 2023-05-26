@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "leaguequizes",
+  "private_key_id": "e1be66ff0ed292d86a0137f45e1a7631fd223c13",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvgIBADANBgkqhkiG9w0BAQEFAASCBKgwggSkAgEAAoIBAQD3rzQGI3Ackniq\nlDY7wezAG35VI/i5wakBjF4gMfvl69ATS+jtu1UeyQYxM8hSE/4g/KFWDX2G8ecP\nzxjxrhpIXvhXY8cXSqWIVcYzxWAyY5FEXugPdlr3MgBLL6BMTI+E0IjQuGFpXH30\ndlJsPqBh5SAknyRtxoflyNuVgHuSou+iKaf9zfbP7ltBpLWQ0oJVW+sZ5Vo6Bnve\nejRdVliz/cNghJ+uGu0PFg7BQbAipq29YUTXyKkis5i4JZ9qceK//vHNb5Hi2McX\nlt2J/6xBxxNtE/cT0uZT3QVH+v8Eun3MHHOyd6+BmbOuiyzRnYl/9QPRhyQyu/m6\nuP48Xi+hAgMBAAECggEABk9V/tzp0gsF2KHk667fGMXsiQeNCmGvfCP06Qrf8g+Y\n1/iBYibRUlrsgc3yAcwLR6Cq/SrT4I9up5ya8/t/lTnY55xJx+9HjjyR64tI/hCi\n/I4CyUPOiYUSPIgdnDsANiHkReW4GtWjunHWG8aIykSqpe8xV8v4teURCccFouav\nmaXmsrTU9cQ7MaojhpJr+ow6qJOt/LBrXUmNUVEJuJFmC51I6wNANRg8kY7EsDxw\na6Kb3bXiD85aMvhJx+QYSUHCvJZDuszKOrc4a408hgboZUA1m82sV12m9K+MVc15\nd5V/Tl7zR16jhM+YonNB3abg4qw5viaKXn3kW94BwQKBgQD+mvGIWpuPp8VYLQLY\n7/8WgGUnf5AJeTUSJ9luSN/TrSiW4wr2sD/QL1wNZB9fDzd4m1/fnnHjf1RYfRSm\ncYWxvWDQhXZcmqemI9FhjU9Wl2R6XBb0RWBSciYg+drOn2atvDsYHY6pJS8ePRi6\nXgmV2PGbehmmhR7xleGRsa8Y4QKBgQD5Co3Q4Ee7yP50VgoBqeKd/XWTRWmxnu6Q\n+jxYX29hFA7ttXPd7mzR4+FAiywykm9Z67oHg4+MhHcUIxdV7izMR8ID4lk7GUKW\n7MsB4m+IAjm1df99l/eYBTsMD9Wja+gb+I9xevLOM9WtrB3jhV3TUrh7C3gGtS8N\nZm6KOWQuwQKBgQDw5zaGaAUtBfeKGPzKuzrH1bDgkKh+7jqy9RWcbkOqi/sN2cHz\n7IxUtZsJ6KRuU32PFqS+d7MXKNFr8N3rJxrzNFc4ti9qK8NZRibFgOmC6zhdNmlZ\ns5MSL4O4S/Em9Fg5JxNbHAxyKwbMO877+CJlsKHbFMrUbrz6pXCLZG5iwQKBgQCY\n5qbtYFYKcDvx10Vrgg9VquD+G3bqC8czEb/tDiMG+la0EVzjHFiJgRyyEQCAyDE/\nhx//LwH6ZvXpUiYopwOwJDp1QgpA46Bjo1x8era5TYx64ciMJrpoBoYbQLmNDVpD\nmhcPuEnM2jxN1cfAAgj6Duae/QqjK6iI1KP3j4b3wQKBgGFZETJau33aT3Lxbl+D\n7ew9otCq//t95i3Wluyjss2plDNVu/ziX5oi6h702DblrhmrUoD0Hp0JTFCfiCwa\nT6nlGAZDidFtmJE3Y/bAW4iV3rGaqVwrhVqsSR8OLVWl33oWyiDj9fl5Dp4QF8vG\nHU3fQZ7W9ldOG5l42IbdgjwO\n-----END PRIVATE KEY-----\n",
+  "client_email": "firebase-adminsdk-ulkvh@leaguequizes.iam.gserviceaccount.com",
+  "client_id": "103148947438969933903",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/firebase-adminsdk-ulkvh%40leaguequizes.iam.gserviceaccount.com"
+}
