@@ -16,6 +16,7 @@ export class ChampionsService {
       const {
         data: { data },
       } = await axios.get(url);
+      console.log(Object.keys(data));
       return data;
     } catch (error) {
       console.log(error);
